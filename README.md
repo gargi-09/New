@@ -1,2 +1,2 @@
-# New
+# Initial Projects
 First repository
