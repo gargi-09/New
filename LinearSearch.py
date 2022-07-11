@@ -1,7 +1,6 @@
 # Algo1
 # Linear Search
 
-from cv2 import line
 import numpy as np
 
 def linear_search(arr,item):
